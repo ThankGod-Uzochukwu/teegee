@@ -132,7 +132,6 @@
             <div class="music ">
                 <img class="pic32 " src="pic32.jpg " alt="MUSIC ">
             </div>
-    </aside>
     <section>
         <h1>HUSTLE IN SILENCE LET YOUR SUCCESS MAKE THE NOISE
         </h1>
@@ -144,7 +143,3 @@
             &copy; TEEGEE TECHBRO. All Rights Reserved &#9776;
         </p>
     </footer>
-
-</body>
-
-</html>
