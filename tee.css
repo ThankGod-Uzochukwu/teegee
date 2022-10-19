@@ -1,0 +1,176 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+* {
+    text-decoration: none;
+    list-style-type: none;
+    background-color: black;
+}
+
+a {
+    color: yellow;
+}
+
+a:hover {
+    color: #ff0080;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic {
+    border-radius: 2000px;
+    width: 350px;
+    height: 550px;
+}
+
+.doit {
+    display: flex;
+    justify-content: space-around;
+}
+
+.do,
+.it,
+.yh {
+    width: 300px;
+    height: 550px;
+    border-radius: 2000px;
+}
+
+.move {
+    margin: 16rem 0rem 20rem 0rem;
+    color: #ff00bf;
+    font-size: 30px;
+}
+
+.stay {
+    margin: 16rem 0rem 20rem 0rem;
+    color: #ff00bf;
+    font-size: 30px;
+}
+
+.pic10,
+.pic13,
+.pic14,
+.pic29,
+.pic24,
+.pic31,
+.pic25,
+.pic30,
+.pic32 {
+    border-radius: 2000px;
+    width: 300px;
+    height: 300px;
+}
+
+.all,
+.join,
+.together,
+.her,
+.boy {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hey,
+.app {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foot {
+    text-align: center;
+    font-size: 2rem;
+    color: aqua;
+}
+
+a:hover {
+    background-color: black;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+h2,
+h3,
+h4 {
+    color: thistle;
+    text-align: center;
+}
+
+.eat,
+.music {
+    display: flex;
+    justify-content: center;
+}
+
+.key {
+    text-align: center;
+}
+
+h1 {
+    color: #ff00bf;
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+@media screen and (max-width:600px) {
+    .pic {
+        border-radius: 2000px;
+        width: 150px;
+        height: 350px;
+    }
+    .do,
+    .it,
+    .yh {
+        width: 100px;
+        height: 350px;
+        border-radius: 2000px;
+    }
+    .pic10,
+    .pic13,
+    .pic14,
+    .pic29,
+    .pic24,
+    .pic31,
+    .pic25,
+    .pic30,
+    .pic32 {
+        border-radius: 2000px;
+        width: 150px;
+        height: 150px;
+    }
+    h2,
+    h3,
+    h4 {
+        color: thistle;
+        text-align: center;
+    }
+    .foot {
+        color: aqua;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    .contact {
+        display: list-item;
+        font-size: 1.2rem;
+        margin-left: -10px;
+    }
+    .life {
+        margin-top: -20px;
+    }
+    .move {
+        margin: 10rem 0rem 0rem 0rem;
+        color: red;
+        font-size: 30px;
+    }
+    .stay {
+        margin: 10rem 0rem 0rem 0rem;
+        color: red;
+        font-size: 30px;
+    }
+}
