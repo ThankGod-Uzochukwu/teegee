@@ -156,7 +156,8 @@ h1 {
         text-align: center;
     }
     .contact {
-        display: list-item;
+        display: flex;
+        justify-content: space-around;
         font-size: 1.2rem;
         margin-left: -10px;
     }
