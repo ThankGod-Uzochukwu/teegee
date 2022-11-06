@@ -133,8 +133,7 @@
                 <img class="pic32 " src="pic32.jpg " alt="MUSIC ">
             </div>
     <section>
-        <h1>HUSTLE IN SILENCE LET YOUR SUCCESS MAKE THE NOISE
-        </h1>
+        <h1>HUSTLE IN SILENCE LET YOUR SUCCESS MAKE THE NOISE<br> honestly, I think we should REACT</h1>
     </section>
 
 
