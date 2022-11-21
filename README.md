@@ -87,7 +87,7 @@
             <a href="https://youtube.com/channel/UCMR8J1qb314Y6hP3Wlmyvjg "><i class="bi bi-youtube "></i></a>
             <a href="https://wa.me/+2347040066148 "><i class="bi bi-whatsapp "></i></a>
             <a href="https://twitter.com/__Tee_Gee?s=09 "><i class="bi bi-twitter "></i></a>
-            <a href="https://www.instagram.com/_tee.gee/?hl=en "><i class="bi bi-instagram "></i></a>
+            <a href="https://www.instagram.com/teegee_of_africa/?hl=en "><i class="bi bi-instagram "></i></a>
             <a href="https://www.snapchat.com/add/thankgod_teegee "><i class="bi bi-snapchat "></i></a>
             <a href="https://www.linkedin.com/in/thankgod-uzochukwu-34aa80244 "><i class="bi bi-linkedin "></i></a>
             <a href="https://tiktok.com/@_tee.gee "><i class="bi bi-tiktok "></i></a>
