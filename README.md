@@ -20,9 +20,9 @@
     <div class="doit">
         <img src="pic20.jpg" alt="coding tags" class="do">
         <img src="pic21.jpg" alt="coding tags" class="it">
-        <a class="stay" onclick="prev()"><p><</p></a>
+        <a class="stay" onclick="prev()"><p><b><</b></p></a>
         <img class="pic" id="slider" src="pic9.jpg" alt="TeeGee TechBro ">
-        <a class="move" onclick="next()"><p>></p></a>
+        <a class="move" onclick="next()"><p><b>></b></p></a>
         <img src="pic22.jpg" alt="coding tags" class="yh">
     </div>
     <script>
