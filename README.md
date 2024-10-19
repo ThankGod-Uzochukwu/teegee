@@ -84,30 +84,12 @@
         <div class="contact ">
             <br><br>
             <a href="https://www.facebook.com/profile.php?id=100086218393511 "><i class="bi bi-facebook "></i></a>
-            <a href="https://wa.me/+2347040066148 "><i class="bi bi-whatsapp "></i></a>
             <a href="https://twitter.com/thankgod_01"><i class="bi bi-twitter "></i></a>
             <a href="https://www.instagram.com/teegee_of_africa/"><i class="bi bi-instagram "></i></a>
-            <a href="https://www.snapchat.com/add/thankgod_teegee "><i class="bi bi-snapchat "></i></a>
             <a href="https://www.linkedin.com/in/thankgod-uzochukwu"><i class="bi bi-linkedin "></i></a>
             <a href="https://tiktok.com/@_tee.gee "><i class="bi bi-tiktok "></i></a>
         </div>
-        <h1>
-            <i>SERVICES I RENDER</i>
-        </h1>
-        <div class="her">
-            <h3>
-                <i>UX/UI DESIGN</i>
-            </h3>
-            <h3>
-                <i>WEB DEVELOPMENT</i>
-            </h3>
-        </div>
-
         <div class="get ">
-            <div class="boy ">
-                <img class=" pic24 " src=" pic24.jpg " alt="UX/UI DESIGNS ">
-                <img class=" pic29 " src="pic29.jpg " alt="WEB DEVELOPMENT ">
-            </div>
             <div class="app ">
                 <h3>
                     <i>ANDRIOD APP</i>
@@ -119,13 +101,6 @@
             <div class="hey ">
                 <img class=" pic30 " src=" pic30.jpg " alt="ANDRIOD APP ">
                 <img class="pic25 " src="pic25.jpg " alt="IOS APP ">
-            </div>
-
-            <h2 class="key ">
-                Not just only TECH<br>I also render MUSIC
-            </h2>
-            <div class="music ">
-                <img class="pic32 " src="pic32.jpg " alt="MUSIC ">
             </div>
     <section>
         <h1>HUSTLE IN SILENCE LET YOUR SUCCESS MAKE THE NOISE<br> honestly, I think we should REACT</h1>
