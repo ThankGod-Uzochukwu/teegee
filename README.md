@@ -102,6 +102,7 @@
                 <img class=" pic30 " src=" pic30.jpg " alt="ANDRIOD APP ">
                 <img class="pic25 " src="pic25.jpg " alt="IOS APP ">
             </div>
+        </div>
     <section>
         <h1>HUSTLE IN SILENCE LET YOUR SUCCESS MAKE THE NOISE<br> honestly, I think we should REACT</h1>
     </section>
