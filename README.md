@@ -66,7 +66,7 @@
 
 
     <div class="together ">
-        <h2>
+        <h2
             <i>FRONT-END DEVELOPERS</i>
         </h2>
         <h2>
@@ -84,10 +84,10 @@
         <div class="contact ">
             <br><br>
             <a href="https://www.facebook.com/profile.php?id=100086218393511 "><i class="bi bi-facebook "></i></a>
-            <a href="https://twitter.com/thankgod_01"><i class="bi bi-twitter "></i></a>
+            <a href="https://twitter.com/teegeeofafrica"><i class="bi bi-twitter "></i></a>
             <a href="https://www.instagram.com/therealteegeeofafrica/"><i class="bi bi-instagram "></i></a>
             <a href="https://www.linkedin.com/in/thankgod-uzochukwu"><i class="bi bi-linkedin "></i></a>
-            <a href="https://tiktok.com/@_tee.gee "><i class="bi bi-tiktok "></i></a>
+            <a href="https://tiktok.com/@therealteegeeofafrica"><i class="bi bi-tiktok "></i></a>
         </div>
         <div class="get ">
             <div class="app ">
